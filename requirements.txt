@@ -1,0 +1,4 @@
+pyfiglet
+termcolor
+tqdm
+prompt_toolkit
