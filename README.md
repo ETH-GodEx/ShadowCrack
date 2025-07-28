@@ -21,7 +21,6 @@ ShadowCrack is a stealthy password hash cracker and generator supporting multipl
 ```bash
 git clone https://github.com/ETH-GodEx/ShadowCrack.git
 cd ShadowCrack
-pip install -r requirements.txt
 ```
 
 ---
